@@ -48,7 +48,7 @@
     "is-npm": "^4.0.0",
     "js-yaml": "^3.14.0",
     "libfb": "^2.3.5",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.8",
     "node-fetch": "^2.6.1",
     "remove-accents": "^0.4.2",
     "semver": "^7.3.2",
