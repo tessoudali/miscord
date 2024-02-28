@@ -53,7 +53,7 @@
     "remove-accents": "^0.4.2",
     "semver": "^7.3.2",
     "strip-ansi": "^6.0.0",
-    "tmp": "^0.2.1"
+    "tmp": "^0.2.2"
   },
   "devDependencies": {
     "@types/archiver": "^3.1.1",
